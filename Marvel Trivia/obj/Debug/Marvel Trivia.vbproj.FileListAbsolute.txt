@@ -1,0 +1,14 @@
+C:\SHU\Academic\INTRO TO STRUC PROGRAM CS-500-C\Marvel Trivia\Marvel Trivia\bin\Debug\Marvel Trivia.exe.config
+C:\SHU\Academic\INTRO TO STRUC PROGRAM CS-500-C\Marvel Trivia\Marvel Trivia\bin\Debug\Marvel Trivia.exe
+C:\SHU\Academic\INTRO TO STRUC PROGRAM CS-500-C\Marvel Trivia\Marvel Trivia\bin\Debug\Marvel Trivia.pdb
+C:\SHU\Academic\INTRO TO STRUC PROGRAM CS-500-C\Marvel Trivia\Marvel Trivia\bin\Debug\Marvel Trivia.xml
+C:\SHU\Academic\INTRO TO STRUC PROGRAM CS-500-C\Marvel Trivia\Marvel Trivia\obj\Debug\Marvel Trivia.vbproj.AssemblyReference.cache
+C:\SHU\Academic\INTRO TO STRUC PROGRAM CS-500-C\Marvel Trivia\Marvel Trivia\obj\Debug\Marvel_Trivia.Form1.resources
+C:\SHU\Academic\INTRO TO STRUC PROGRAM CS-500-C\Marvel Trivia\Marvel Trivia\obj\Debug\Marvel_Trivia.Resources.resources
+C:\SHU\Academic\INTRO TO STRUC PROGRAM CS-500-C\Marvel Trivia\Marvel Trivia\obj\Debug\Marvel Trivia.vbproj.GenerateResource.cache
+C:\SHU\Academic\INTRO TO STRUC PROGRAM CS-500-C\Marvel Trivia\Marvel Trivia\obj\Debug\Marvel Trivia.vbproj.CoreCompileInputs.cache
+C:\SHU\Academic\INTRO TO STRUC PROGRAM CS-500-C\Marvel Trivia\Marvel Trivia\obj\Debug\Marvel Trivia.exe
+C:\SHU\Academic\INTRO TO STRUC PROGRAM CS-500-C\Marvel Trivia\Marvel Trivia\obj\Debug\Marvel Trivia.xml
+C:\SHU\Academic\INTRO TO STRUC PROGRAM CS-500-C\Marvel Trivia\Marvel Trivia\obj\Debug\Marvel Trivia.pdb
+C:\SHU\Academic\INTRO TO STRUC PROGRAM CS-500-C\Marvel Trivia\Marvel Trivia\obj\Debug\Marvel_Trivia.Form2.resources
+C:\SHU\Academic\INTRO TO STRUC PROGRAM CS-500-C\Marvel Trivia\Marvel Trivia\obj\Debug\Marvel_Trivia.Form3.resources
